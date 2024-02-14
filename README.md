@@ -2,4 +2,4 @@
 
 ## Finances
 
-* [The termination fee of Saffron Lido Vaults explained](./post1.html)
+* [The termination fee of Saffron Lido Vaults explained](./post1/)
